@@ -1,5 +1,10 @@
-## Hi there 👋
+<div align="center">
 
+# Deprecated account, please see  
+
+👉 [My new account](https://github.com/yousefalwahami) 👈  
+
+</div>
 <!--
 **wahamiyousef/wahamiyousef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
